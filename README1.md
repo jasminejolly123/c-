@@ -20,6 +20,7 @@ int main(int argc, char** argv)
 	return 0;
 }
 ```
+When writing numbers as integers the code outputs 0 no matter he input, this is because 5/9 rounds to 0. Adding ".0" fixes this problem
 
 ## Q3
 ``` cpp
@@ -55,6 +56,8 @@ int main(int argc, char** argv)
 	return 0;
 }
 ```
+When there is a certain amount of decimal points the code will stop reading it.
+
 ## Q5
 ```cpp
 int main(int argc, char** argv)
@@ -70,6 +73,7 @@ int main(int argc, char** argv)
     cout << factorialTotal;
 }
 ```
+Starting the main program is different and the output method is different from c# other than that its all the same. The for loop is exactly the same as in c#.
 
 ## Q6
 ```cpp
