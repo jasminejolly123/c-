@@ -1,7 +1,7 @@
 # lab H
 ## Q1 Person Node
 ``` cpp
-void setName(string name)
+	void setName(string name)
 	{
 		m_name = name;
 	}
@@ -20,4 +20,9 @@ void setName(string name)
 	{
 		return m_age;
 	}
+```
+Here i wrote get and set functions for the name and age
+
+``` cpp
+friend AddressBookSLL;
 ```
