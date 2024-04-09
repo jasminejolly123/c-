@@ -46,6 +46,9 @@ Here I added functionality to the add person method.
 I had a problem understanding the instructions so I made it so if the list was empty the new person would be added to the top of the list and otherwise added to the next item in the list.
 This code did not run as the code could not find the m_next variable, I think this is due to a problem with my friend declaration.
 
+![lab h q2](https://github.com/jasminejolly123/c-/assets/114992186/06c66079-fab9-4467-9550-e095c7bb1528)
+Here is a screenshot of the error
+
 ## Q3 Find, Delete and Output
 ``` cpp
 const int AddressBookSLL::FindPerson(const string& name)
