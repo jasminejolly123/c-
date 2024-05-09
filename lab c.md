@@ -73,3 +73,8 @@ a = 10, b = 20, c = 30
 max = 30
 ### Reflection
 Assembly language gives a lot more information than c++, showing mempry locations, contents of the stack and data sizes.
+
+
+
+
+![image](https://github.com/jasminejolly123/c-/assets/114992186/7c328fcd-1963-4ecf-b615-2d20600993da)
